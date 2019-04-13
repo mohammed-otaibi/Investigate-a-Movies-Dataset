@@ -1,0 +1,17 @@
+This data set has some issues that makeing it are not cleaning dataset:
+1- imdb_id has some NaN values.
+2- imdb_id is unnicesary column.
+3- cast has NaN values.
+4- cast column has derty orgnizing data.
+5- homepage has null NaN values.
+6- director has null NaN values.
+7- tagline has null NaN values.
+8- keywords has some null values.
+9- overview has some null values.
+10- genres has some null values.
+11- genres column has derty orgnizing data.
+12- production_companies has some null values.
+13- production_companies has derty orgnizing data.
+14- release_date has wrong datatype should be date not string.
+15- budget_adj & revenue_adj should be rename.
+16- budget & revenue has wrong datatype should be float not integer datatype.
